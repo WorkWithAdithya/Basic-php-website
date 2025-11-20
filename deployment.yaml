@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: bookalbum
-        image: sreedocker123/bookmoviealbum:latest
+        image: gaganahs/phpapp:latest
         ports:
         - containerPort: 80
